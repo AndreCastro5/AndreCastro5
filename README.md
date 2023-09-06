@@ -1,19 +1,24 @@
 Hi 👋 My name is André Castro
- Junior Developer Python
+Junior python developer focused on data analysis and artificial intelligence
 
-I'm a 20 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I've been programming in python for 2 years, I also work with SQL and Docker
 
-I am also a student at 42 | Rio, a Software Engineering school that have 50 campus in 29 countries.
+I study system analysis and development at college, but I tend to be self-taught in most of the areas that I'm most passionate about.
 
-    🌍 I'm based in Rio de Janeiro, Brazil
-    ✉️ You can contact me at guilhermomasid@gmail.com
-    🚀 I'm currently freelancing for companies as a Full Stack Software Developer
-    🧠 I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
+    🌍 I'm based in Pinda-SP, Brazil
+    ✉️ You can contact me at andre.castro2356@gmail.com
+    🚀 I currently work at a startup in the area of ​​Health technology
+    🧠 I study Python and other data science technologies every day
     🤝 I'm open to collaborating on projects that have a high impact in peoples lives
-    ⚡ I love sports and my favorite is Crossfit
+    ⚡ I love sports and my favorite is Futebol 
 
 Skills
-
-Python Typescript C C++ Rust HTML5 React NextJs Svelte TailwindCSS Material UI Redux Webpack NodeJS Express NestJS GraphQL MongoDB PostgreSQL Heroku
-Socials
-
+<p
+ <a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
+  <a><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
+    <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+     <a><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /></a>
+      <a><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+      <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+     <a><img src="https://img.shields.io/badge/Matplotlib-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/></a>
+   
