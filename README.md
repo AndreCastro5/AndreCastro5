@@ -1,5 +1,5 @@
 Hi 👋 My name is André Castro
-Junior python developer focused on data analysis and artificial intelligence
+ python developer focused on data analysis and artificial intelligence
 
 I've been programming in python for 2 years, I also work with SQL and Docker
 
