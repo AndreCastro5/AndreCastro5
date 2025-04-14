@@ -1,7 +1,7 @@
 Hi 👋 My name is André Castro
  python developer focused on data analysis and artificial intelligence
 
-I've been programming in python for 2 years, I also work with SQL and Docker
+I've been programming in python for 3 years
 
 I study system analysis and development at college, but I tend to be self-taught in most of the areas that I'm most passionate about.
 
